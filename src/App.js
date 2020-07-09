@@ -7,6 +7,8 @@ import { Home, Welcome, Login, Map } from '~/screens';
 import colors from './config/colors';
 import OnboardingSlide from './components/OnboardingSlide';
 
+console.disableYellowBox = true;
+
 const App = () => {
   const [showRealApp, setShowRealApp] = useState('false');
 
