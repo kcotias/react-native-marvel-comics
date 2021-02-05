@@ -45,7 +45,7 @@ or
 
 ### Disclaimers
 
-Due to the nature of the test and lack of time, i've tested IOS only and using simulators, because of that for now Android doesn't have Maps support.
+Since its an example project and lack of time, i've tested IOS only and using simulators, because of that for now Android doesn't have Maps support.
 
 If you face any problems using the Map feature on the simulator, just follow this steps:
 
